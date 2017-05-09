@@ -66,7 +66,7 @@ bool Tablero::ColocarFicha(int i, int j) {
 
 		for (int k = -1; k <= 1; k++) {
 			for (int q = -1; q <= 1; q++) {
-				int ci = i; //copia de donde voy a poner la turno
+				int ci = i; //copia de donde voy a poner el turno
 				int cj = j; 
 				
 				if (turno == 1) {
