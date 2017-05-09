@@ -1,3 +1,2 @@
 #include "jugador.h"
 
- 
