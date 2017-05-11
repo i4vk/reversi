@@ -190,7 +190,7 @@ bool Tablero::MovPosible(int jugador) {
 	return movim_posible;
 }
 	
-void prettyPrint() {
+void Tablero::prettyPrint() {
 	
 
 }
